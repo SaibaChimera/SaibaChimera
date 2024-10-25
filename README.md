@@ -16,6 +16,7 @@
 - [Metro Mayhem](https://saibashadow.itch.io/metro-mayhem)
 
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="ConnorMunro | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />][artstation]
 [<img align="left" alt="ConnorMunro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
