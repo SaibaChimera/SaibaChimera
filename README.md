@@ -1,9 +1,6 @@
 <h1>Hi, I'm Connor <br/><a href="https://www.artstation.com/saibaproductions">Artist</a>, <a href="https://saibashadow.itch.io/">Game Dev</a>, <a href="https://www.linkedin.com/in/connor-munro-45321a185/">Ready To Work</a></h1>
 
 <h2>👨‍💻 Game Dev Projects:</h2>
-<!--
-- <b>3D Platformer</b>
-  - [Forest and Phal](https://github.com/SaibaChimera/Forest-and-Phal)-->
 - <b>SA Game Jam 2024 [72 Hours]</b>
   - [Metro Mayhem](https://github.com/SaibaChimera/Metro-Mayhem) 
 - <b>Mental Health Jam [Didn't Make the Deadline]</b>
@@ -23,7 +20,11 @@
 [artstation]: https://www.artstation.com/saibaproductions
 [linkedin]: https://www.linkedin.com/in/connor-munro-45321a185/
 
-
+<!--
+- <b>3D Platformer</b>
+  - [Forest and Phal](https://github.com/SaibaChimera/Forest-and-Phal)
+  -->
+  
 <!--
 Here are some ideas to get you started:
 
