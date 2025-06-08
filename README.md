@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Game Dev Projects:</h2>
 - <b>SA Game Jam 2024 [72 Hours]</b>
-  - [Metro Mayhem](https://github.com/SaibaChimera/Metro-Mayhem) 
+  - [Metro Mayhem](https://github.com/SaibaChimera/Metro-Mayhem)
+  
 - <b>Mental Health Jam [Didn't Make the Deadline]</b>
   - [Mental Health Jam](https://github.com/SaibaChimera/Mental-Health-Jam)
 
